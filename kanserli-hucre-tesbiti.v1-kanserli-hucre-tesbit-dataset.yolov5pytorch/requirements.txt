@@ -1,0 +1,49 @@
+# PyTorch: Derin öğrenme modelleri için
+torch>=1.7
+torchvision>=0.8
+
+# YOLOv5: Hızlı ve doğru nesne algılama
+# YoloV5’in gereksinimleri, repo’dan güncel olarak çekilebilir
+# Genel olarak yolov5 kütüphaneleri aşağıdaki gibi olabilir
+numpy>=1.18.5
+opencv-python>=4.1.2
+pandas>=1.1.4
+matplotlib>=3.2.2
+scipy>=1.4.1
+seaborn>=0.11.0
+PyYAML>=5.3.1
+tqdm>=4.41.0
+requests>=2.23.0
+
+# OpenCV: Görüntü işleme ve analiz
+opencv-python>=4.5.3
+opencv-python-headless>=4.5.3
+
+# Albumentations: Veri artırma teknikleri
+albumentations>=0.5.2
+
+# Tensorboard: Eğitim sürecini takip etmek için
+tensorboard>=2.4.1
+
+# CUDA: GPU hızlandırmalı hesaplama (Eğer GPU kullanıyorsanız)
+# torch için gerekli CUDA sürümü, kullanılan GPU’ya bağlı olarak değişebilir.
+# Örneğin:
+# torchaudio==0.10.0+cu111
+# torch==1.10.0+cu111
+
+# Scikit-learn: Model değerlendirmeleri ve metrikler için
+scikit-learn>=0.24.2
+
+# PyYAML: Konfigürasyon dosyaları için
+PyYAML>=5.3.1
+
+# Ultralytics yolov5 bağımlılıkları
+# Güncel olarak yolov5 repository'den uyarlanmış olabilir
+thop  # FLOP hesaplamaları için
+
+# Jupyter Notebook: Eğer modelinizi bir notebook ortamında çalıştırmak isterseniz
+jupyter>=1.0.0
+
+# Diğer yardımcı kütüphaneler
+pillow>=8.0.1  # Görüntü işleme için
+Cython>=0.29.21  # Performans optimizasyonu
