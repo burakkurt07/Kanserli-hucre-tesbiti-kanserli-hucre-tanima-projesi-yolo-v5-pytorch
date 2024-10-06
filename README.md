@@ -1,3 +1,5 @@
+Dataset'i kaggle sayfamdan indirebilirsiniz! link : https://www.kaggle.com/datasets/burakkurt07/kanserli-hucre-tesbiti-dataseti-blood-cancer-data
+
 
 Kanserli Hücre Tespiti - YOLOv5 & PyTorch
 
