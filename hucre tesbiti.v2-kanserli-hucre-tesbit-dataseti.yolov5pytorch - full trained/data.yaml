@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names: ['basophil-kanseri', 'eosinophil-kanseri', 'erythroblast-kanseri', 'ig-kanseri', 'kanserli', 'lymphocyte-kanseri', 'monocyte-kanseri', 'neutrophil-kanseri', 'platelet-kanseri', 'temiz']
+
+roboflow:
+  workspace: kanserli-hcre-tesbiti
+  project: hucre-tesbiti
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/kanserli-hcre-tesbiti/hucre-tesbiti/dataset/1
