@@ -2,6 +2,8 @@ Dataset'i kaggle sayfamdan indirebilirsiniz! link : https://www.kaggle.com/datas
 
 
 Kanserli Hücre Tespiti - YOLOv5 & PyTorch
+Projenin Detayları Medium Makalemde!
+👉🏼👉🏼 https://medium.com/@burak0564/ger%C3%A7ek-zamanl%C4%B1-kanserli-h%C3%BCcre-tespiti-yolov5-ve-pytorch-kanserli-h%C3%BCcre-tan%C4%B1ma-projesi-91e0498bfc81
 
 Bu proje, derin öğrenme tabanlı bir kanserli hücre tespit sistemi geliştirmeyi amaçlamaktadır. YOLOv5 ve PyTorch kullanarak gerçek zamanlı hücre tanıma uygulaması oluşturulmuştur. Proje, kanserli ve temiz hücre görüntülerinin sınıflandırılmasını sağlamaktadır.
 Özellikler:
