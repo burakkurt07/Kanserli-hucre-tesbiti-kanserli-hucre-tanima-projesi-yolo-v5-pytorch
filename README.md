@@ -33,8 +33,8 @@ Gereksinimler:
     Python 3.7+
     PyTorch
     OpenCV
-    Diğer bağımlılıklar için requirements.txt dosyasına göz atabilirsiniz.
+    Yada CMD ile projenin klasörüne girip "pip install -r requirements.txt" da yazabilirsiniz! Sizin için hepsini otomatik kurar!
 
 Katkı:
 
-    Proje açık kaynaklıdır ve katkılara açıktır. Her türlü öneri ve geri bildirimi bekliyoruz.
+    Projem açık kaynaklıdır ve katkılara açıktır. Her türlü öneri ve geri bildirimi bekliyorum!
